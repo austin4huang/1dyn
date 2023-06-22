@@ -1,0 +1,4 @@
+# to ignore when adding all to a commit with git add .
+
+# it might be better for me to put the venv outside the root directory of this project. oh well
+dyn_venv/
